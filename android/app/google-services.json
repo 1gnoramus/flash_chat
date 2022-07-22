@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158662407498",
+    "project_id": "flach-chat-69fc1",
+    "storage_bucket": "flach-chat-69fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158662407498:android:4286c98d2437ab2a703db3",
+        "android_client_info": {
+          "package_name": "co.ignoramus.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158662407498-3r4ibo87bn7a0o0poetn5iol48kq2ue3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3HY7LrNYTQ5gVKL6nCsgZ1aw7Y_gI3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158662407498-3r4ibo87bn7a0o0poetn5iol48kq2ue3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
